@@ -60,6 +60,9 @@
 			"@parcel/watcher",
 			"esbuild",
 			"hugo-bin"
+		],
+		"ignoredBuiltDependencies": [
+			"core-js"
 		]
 	},
 	"scripts": {
